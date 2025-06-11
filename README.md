@@ -53,7 +53,13 @@ Currently, I’m building projects using Flutter, React, and Python.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviverleihtflugel&layout=compact&theme=tokyonight)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=leviverleihtflugel&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leviverleihtflugel&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviverleihtflugel&layout=compact&theme=tokyonight" height="180"/>
+  
+</div>
 
 ---
 
