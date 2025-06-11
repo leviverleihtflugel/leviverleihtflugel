@@ -31,14 +31,26 @@ Currently, I’m building projects using Flutter, React, and Python.
 
 ## 📂 Featured Projects
 
-- 🎮 [PDP - Space Simulation](https://github.com/leviverleihtflugel/PDP---Uzay-Simulasyonu)  
-  A simple space game simulation with real-time mechanics.
-
-- 🤖 [Customer Support Agent](https://github.com/leviverleihtflugel/CUSTOMER-SUPPORT-AGENT)  
-  A Python-based chatbot to assist users in customer service scenarios.
+- 🐱 [Kedi Hastanesi - Veterinary DBMS](https://github.com/leviverleihtflugel/DatabaseManagmentSystems-Kedi_Hastanesi)  
+  A desktop application for managing veterinary clinic data using Java and SQL. Includes features like patient records, appointments, and medications.
 
 - 📱 [RiotAppV2](https://github.com/leviverleihtflugel/riotappv2)  
-  A mobile app that fetches and displays League of Legends player statistics.
+  A mobile application built with Flutter that displays League of Legends player stats by integrating Riot Games API.
+
+- 🤖 [Customer Support Agent](https://github.com/leviverleihtflugel/customer-support-agent)  
+  An AI-based chatbot implemented in Python designed to simulate customer support interactions and answer user queries.
+
+- 🌐 [Internet Speed Test](https://github.com/leviverleihtflugel/Internet-Speed-Test)  
+  A simple JavaScript app that checks your internet speed by downloading a test file and displaying results in Mbps, Kbps, and Bits.
+  ![Screenshot](https://i.hizliresim.com/fng2qdh.jpeg)
+
+- 🔐 [Password Generator](https://github.com/leviverleihtflugel/Password-Generator)  
+  A simple and interactive JavaScript web app that allows users to generate strong, customizable passwords.  
+  ![Screenshot](https://i.hizliresim.com/gypbfht.jpg)
+
+- 🛒 [Farmer Market App](https://github.com/leviverleihtflugel/farmer_market)  
+  A conceptual app prototype simulating an online platform for local farmers to list and sell products, built with mobile-first principles.
+
 
 ---
 
