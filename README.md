@@ -31,24 +31,23 @@ Currently, I’m building projects using Flutter, React, and Python.
 
 ## 📂 Featured Projects
 
-- 🐱 [Kedi Hastanesi - Veterinary DBMS](https://github.com/leviverleihtflugel/DatabaseManagmentSystems-Kedi_Hastanesi)  
-  A desktop application for managing veterinary clinic data using PostgreSQL. Built with Node.js and PostgreSQL, this project aims to simplify clinical data management.
-  
+- 🛒 [Farmer Market App](https://github.com/leviverleihtflugel/farmer_market)  
+  A conceptual app prototype simulating an online platform for local farmers to list and sell products, built with mobile-first principles.
+
 - 📱 [RiotAppV2](https://github.com/leviverleihtflugel/riotappv2)  
   A mobile application built with Flutter that displays League of Legends player stats by integrating Riot Games API.
 
 - 🤖 [Customer Support Agent](https://github.com/leviverleihtflugel/customer-support-agent)  
   An AI-based chatbot implemented in Python designed to simulate customer support interactions and answer user queries.
+  
+- 🐱 [Kedi Hastanesi - Veterinary DBMS](https://github.com/leviverleihtflugel/DatabaseManagmentSystems-Kedi_Hastanesi)  
+  A desktop application for managing veterinary clinic data using PostgreSQL. Built with Node.js and PostgreSQL, this project aims to simplify clinical data management.
 
 - 🌐 [Internet Speed Test](https://github.com/leviverleihtflugel/Internet-Speed-Test)  
   A simple JavaScript app that checks your internet speed by downloading a test file and displaying results in Mbps, Kbps, and Bits.
 
 - 🔐 [Password Generator](https://github.com/leviverleihtflugel/Password-Generator)  
   A simple and interactive JavaScript web app that allows users to generate strong, customizable passwords.  
-
-- 🛒 [Farmer Market App](https://github.com/leviverleihtflugel/farmer_market)  
-  A conceptual app prototype simulating an online platform for local farmers to list and sell products, built with mobile-first principles.
-
 
 ---
 
