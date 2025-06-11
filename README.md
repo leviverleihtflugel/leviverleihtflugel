@@ -1,11 +1,11 @@
-# 👋 Merhaba, ben Ömer
+# 👋 Hi, I'm Ömer
 
-Bilgisayar mühendisliği öğrencisiyim. Yazılım geliştirmeye, yapay zekaya ve oyunlara ilgim var.  
-Flutter, React ve Python ile projeler geliştiriyorum.
+I'm a computer engineering student passionate about software development, artificial intelligence, and game development.  
+Currently, I’m building projects using Flutter, React, and Python.
 
 ---
 
-<h2>🚀 Languages and Tools I Use</h2>
+## 🚀 Languages and Tools I Use
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" />
@@ -27,21 +27,27 @@ Flutter, React ve Python ile projeler geliştiriyorum.
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" />
 </p>
 
+---
 
-## 📊 GitHub İstatistiklerim
+## 📂 Featured Projects
 
-![Levi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leviverleihtflugel&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leviverleihtflugel&theme=tokyonight)
+- 🎮 [PDP - Space Simulation](https://github.com/leviverleihtflugel/PDP---Uzay-Simulasyonu)  
+  A simple space game simulation with real-time mechanics.
+
+- 🤖 [Customer Support Agent](https://github.com/leviverleihtflugel/CUSTOMER-SUPPORT-AGENT)  
+  A Python-based chatbot to assist users in customer service scenarios.
+
+- 📱 [RiotAppV2](https://github.com/leviverleihtflugel/riotappv2)  
+  A mobile app that fetches and displays League of Legends player statistics.
+
+---
+
+## 📊 GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leviverleihtflugel&layout=compact&theme=tokyonight)
 
 ---
 
-## 🏆 GitHub Başarılarım
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=leviverleihtflugel&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Bana Ulaş
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-faruk-aydın-a06827254/)
