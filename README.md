@@ -32,8 +32,8 @@ Currently, I’m building projects using Flutter, React, and Python.
 ## 📂 Featured Projects
 
 - 🐱 [Kedi Hastanesi - Veterinary DBMS](https://github.com/leviverleihtflugel/DatabaseManagmentSystems-Kedi_Hastanesi)  
-  A desktop application for managing veterinary clinic data using Java and SQL. Includes features like patient records, appointments, and medications.
-
+  A desktop application for managing veterinary clinic data using PostgreSQL. Built with Node.js and PostgreSQL, this project aims to simplify clinical data management.
+  
 - 📱 [RiotAppV2](https://github.com/leviverleihtflugel/riotappv2)  
   A mobile application built with Flutter that displays League of Legends player stats by integrating Riot Games API.
 
