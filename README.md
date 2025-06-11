@@ -42,11 +42,9 @@ Currently, I’m building projects using Flutter, React, and Python.
 
 - 🌐 [Internet Speed Test](https://github.com/leviverleihtflugel/Internet-Speed-Test)  
   A simple JavaScript app that checks your internet speed by downloading a test file and displaying results in Mbps, Kbps, and Bits.
-  ![Screenshot](https://i.hizliresim.com/fng2qdh.jpeg)
 
 - 🔐 [Password Generator](https://github.com/leviverleihtflugel/Password-Generator)  
   A simple and interactive JavaScript web app that allows users to generate strong, customizable passwords.  
-  ![Screenshot](https://i.hizliresim.com/gypbfht.jpg)
 
 - 🛒 [Farmer Market App](https://github.com/leviverleihtflugel/farmer_market)  
   A conceptual app prototype simulating an online platform for local farmers to list and sell products, built with mobile-first principles.
