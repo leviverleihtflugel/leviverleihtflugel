@@ -59,6 +59,4 @@ Currently, I’m building projects using Flutter, React, and Python.
 
 ---
 
-## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-faruk-aydın-a06827254/)
