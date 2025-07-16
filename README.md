@@ -49,6 +49,9 @@ Currently, I’m building projects using Flutter, React, and Python.
 - 🔐 [Password Generator](https://github.com/leviverleihtflugel/Password-Generator)  
   A simple and interactive JavaScript web app that allows users to generate strong, customizable passwords.  
 
+-  🧾 [PolicyGPT – Citizen Rights & Procedures Assistant](https://github.com/leviverleihtflugel/PolicyGPT)
+  An interactive web app that generates simplified step-by-step guides on topics like citizenship, residence, tax, and social security using a local RAG + LLM pipeline (Flask, LangChain, Ollama).
+
 ---
 
 ## 📊 GitHub Stats
