@@ -52,6 +52,9 @@ Currently, I’m building projects using Flutter, React, and Python.
 -  🧾 [PolicyGPT – Citizen Rights & Procedures Assistant](https://github.com/leviverleihtflugel/PolicyGPT)
   An interactive web app that generates simplified step-by-step guides on topics like citizenship, residence, tax, and social security using a local RAG + LLM pipeline (Flask, LangChain, Ollama).
 
+- 🎙️ [VoiceGPT – Turkish Voice Assistant](https://github.com/leviverleihtflugel/VoiceGPT)
+A fully local voice-based AI assistant built with Whisper, Ollama (llama3), and gTTS. Converts voice input to text, generates natural Turkish responses using an LLM, and speaks the answer aloud. Runs entirely offline with a simple Gradio interface.
+
 ---
 
 ## 📊 GitHub Stats
