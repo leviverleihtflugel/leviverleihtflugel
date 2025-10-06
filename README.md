@@ -55,6 +55,10 @@ Currently, I’m building projects using Flutter, React, and Python.
 - 🎙️ [VoiceGPT – Turkish Voice Assistant](https://github.com/leviverleihtflugel/VoiceGPT)
 A fully local voice-based AI assistant built with Whisper, Ollama (llama3), and gTTS. Converts voice input to text, generates natural Turkish responses using an LLM, and speaks the answer aloud. Runs entirely offline with a simple Gradio interface.
 
+- 🤖 [Ollama-Agent-Kit](https://github.com/EmreMutlu99/Ollama-Agent-Kit)
+A simple memory-enabled LLM Agent capable of handling tool calls. It communicates with large language models through the Ollama API and can use predefined tools (weather, time, reservation, etc.).
+
+
 ---
 
 ## 📊 GitHub Stats
